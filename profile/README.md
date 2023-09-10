@@ -5,6 +5,10 @@
  Just a various type of slpy dev.
 </h1>
 <p align="center">
+<a href="https://slpy.one" target="_blank">
+  home
+ </a>
+  |
  <a href="https://slpy.one/about" target="_blank">
   about
  </a>
