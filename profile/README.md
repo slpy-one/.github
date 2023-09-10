@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/slpy.one.png">
+  <img src="https://raw.githubusercontent.com/slpy-one/.github/main/images/slpy.one.png" width="100px" height="auto">
 </p>
 <h1 align="center">
  Just a various type of slpy dev.
