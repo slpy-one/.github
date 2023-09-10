@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="../images/slpy.one.png">
+</p>
 <h1 align="center">
  Just a various type of slpy dev.
 </h1>
